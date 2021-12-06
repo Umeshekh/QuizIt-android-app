@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.umeshekhande.Quizit">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="QuizIt"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.example.umeshekhande.Quizit.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.umeshekhande.Quizit.QuestionsActivity">
+        </activity>
+        <activity android:name="com.example.umeshekhande.Quizit.DeveloperActivity">
+        </activity>
+        <activity android:name="com.example.umeshekhande.Quizit.ResultActivity"></activity>
+    </application>
+
+</manifest>
