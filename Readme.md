@@ -10,7 +10,12 @@ Quizit is an android based application, and enables the user to undertake a seri
 <li> <b>Results </b>– displays Results after finishing the quiz.
 <li> <b>Developers </b>– displays the information about the developers.</ol>
 
-## Sreenshot
+## Video
+<video >
+  <source src="movie.mp4" type="video/mp4">
+  
+  Your browser does not support the video tag.
+</video>
 
 
 
